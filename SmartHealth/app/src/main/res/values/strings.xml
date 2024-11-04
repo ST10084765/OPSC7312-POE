@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Smart Health</string>
+    <string name="logo">Logo</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="achievement_icon_desc" />
+    <string name="facebook_app_id">3660985930821311</string>
+    <string name="fb_login_protocol_scheme">3660985930821311</string>
+    <string name="facebook_client_token">1ea381155dc70b31554861a9245eb8b8</string>
+
+
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="notifications">Notifications</string>
+    <string name="privacy">Privacy</string>
+    <string name="register">Register</string>
+    <string name="default_web_client_id">689680298182-4lmuf4il82jka0bmkonabr21dujc09ac.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+
+</resources>

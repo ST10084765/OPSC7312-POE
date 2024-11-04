@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Health</string>
+    <string name="logo">Logo</string>
+    <string name="sign_in_with_google">Teken in met Google</string>
+    <string name="continue_with_facebook">Gaan voort met Facebook</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wagwoord</string>
+    <string name="forgot_password">Wagwoord vergeet?</string>
+    <string name="login">Meld aan</string>
+    <string name="achievement_icon_desc" />
+    <string name="facebook_app_id">3660985930821311</string>
+
+    <string name="facebook_client_token">1ea381155dc70b31554861a9245eb8b8</string>
+
+    <string name="settings">Instellings</string>
+    <string name="language">Taal</string>
+    <string name="notifications">Kennisgewings</string>
+    <string name="privacy">Privaatheid</string>
+    <string name="register">Registreer</string>
+    <string name="default_web_client_id">689680298182-4lmuf4il82jka0bmkonabr21dujc09ac.apps.googleusercontent.com</string>
+    <string name="email">E-pos</string>
+</resources>

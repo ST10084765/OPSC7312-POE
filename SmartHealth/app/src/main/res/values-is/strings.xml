@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Health</string>
+    <string name="logo">Ilogo</string>
+    <string name="sign_in_with_google">Ngena nge-Google</string>
+    <string name="continue_with_facebook">Qhubeka nge-Facebook</string>
+    <string name="username">Igama lomsebenzisi</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="forgot_password">Ukhohlwe Iphasiwedi?</string>
+    <string name="login">Ngena ngemvume</string>
+    <string name="achievement_icon_desc" />
+    <string name="facebook_app_id">3660985930821311</string>
+
+    <string name="facebook_client_token">1ea381155dc70b31554861a9245eb8b8</string>
+
+    <string name="settings">Izilungiselelo</string>
+    <string name="language">Ulimi</string>
+    <string name="notifications">Izaziso</string>
+    <string name="privacy">Ubumfihlo</string>
+    <string name="register">Bhalisa</string>
+    <string name="default_web_client_id">689680298182-4lmuf4il82jka0bmkonabr21dujc09ac.apps.googleusercontent.com</string>
+    <string name="email">I-imeyili</string>
+</resources>

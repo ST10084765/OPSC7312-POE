@@ -1,0 +1,49 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/settings_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/language_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Language"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:background="?attr/selectableItemBackground"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/notification_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notifications"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:background="?attr/selectableItemBackground"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/privacy_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Privacy"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:background="?attr/selectableItemBackground"
+        android:layout_marginTop="8dp" />
+</LinearLayout>
